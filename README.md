@@ -1,1 +1,1 @@
-# dns-creat
+# dns-create
